@@ -14,5 +14,7 @@ Now that you've learned about metadata, practice by adding titles to your other 
 /dashboard/invoices/create page.
 /dashboard/invoices/[id]/edit page.
 
+Deployed on: https://next-js-dashboard-two-sable.vercel.app/
+
 Email: user@nextmail.com
 Password: 123456
